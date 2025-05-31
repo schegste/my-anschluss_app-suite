@@ -1,7 +1,5 @@
 # my-anschluss_app-suite
 
-# my-anschluss_app-suite
-
 Dieses Repository ist die zentrale Übersicht für die App-Suite „my-anschluss“.
 
 ## 🔗 Komponenten

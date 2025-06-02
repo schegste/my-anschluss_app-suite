@@ -1,6 +1,6 @@
 # my-anschluss_app-suite
 
-Dieses Repository ist die zentrale Übersicht für die App-Suite „my-anschluss“.
+Dieses Repository ist die zentrale Übersicht über alle Repos welche im Rahmen der Masterarbeit "Anschluss!"erarbeitet wurden.
 
 ## 🔗 Komponenten
 
@@ -17,8 +17,8 @@ Weitere Details folgen unter `/docs`.
 
 ## 📥 Nutzung
 
-Repositories können einzeln heruntergeladen oder geclont werden.
+Repositories können einzeln heruntergeladen werden. Falls Berechtigungen fehlen können diese bei Stefan Schegg angefragt werden
 
 ## 🛠 Architektur
 
-*(Hier könntest du später ein Bild oder Diagramm einfügen)*
+

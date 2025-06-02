@@ -1,4 +1,4 @@
-⚠️⚠️  Achtung: Alle Artefakte sind noch in fertigstellung ⚠️ ⚠️ 
+⚠️⚠️  Achtung: Alle Artefakte sind noch in Fertigstellung ⚠️ ⚠️ 
 
 # my-anschluss_app-suite
 

@@ -33,8 +33,8 @@ Die App wurde vollständig entwickelt, getestet und ansatzweise evaluiert. Nutze
 
 ### 🛠 Architektur und Systemübersicht
 
-![Architekturkonzept](docs/diagramme/Architekturkonzept.svg)
-![Deployment-Kontext](docs/diagramme/DeploymentKontext.svg)
+![Architekturkonzept](docs/Architekturkonzept.svg)
+![Deployment-Kontext](docs/DeploymentKontext.svg)
 
 ## 📥 Nutzungshinweise
 

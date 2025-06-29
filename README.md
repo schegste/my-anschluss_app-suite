@@ -30,13 +30,13 @@ Zentrale Funktion ist der **Fahrplanvergleich**, bei dem zwei GTFS-Fahrplanversi
 
 ---
 
-### 🛠 Architekturkonzept
+## 🛠 Architekturkonzept
 
 ![Architekturkonzept](docs/Architekturkonzept.svg)
 
 ---
 
-### 🔧 Deployment-Kontext
+## 🔧 Deployment-Kontext
 
 ![Deployment-Kontext](docs/DeploymentKontext.svg)
 

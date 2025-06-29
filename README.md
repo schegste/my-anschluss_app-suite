@@ -11,9 +11,7 @@ Die Anwendung basiert auf dem **GTFS-Datenstandard** und nutzt einen mehrstufige
 Das Backend wurde mit **Spring Boot** entwickelt, das Frontend nutzt **Thymeleaf** und **Bootstrap**. Über die **Google Maps API** werden Haltestellen auf GoogleMaps interaktiv dargestellt. 
 Zentrale Funktion ist der **Fahrplanvergleich**, bei dem zwei GTFS-Fahrplanversionen auf Änderungen bei Zugankünften analysiert werden können. Dadurch lassen sich potenzielle Anschlussbrüche erkennen.
 
-🚀 Die App wurde vollständig entwickelt. Nutzerfeedbacks sind noch ausstehend.
-
-> ⚠️ Hinweis: Der Prototyp befindet sich noch in der Weiterentwicklung – Feedback willkommen!
+🚀 Die Anwendung wurde vollständig entwickelt, befindet sich noch in der Weiterentwicklung – Feedback willkommen!
 
 ---
 

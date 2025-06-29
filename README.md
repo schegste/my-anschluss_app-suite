@@ -49,17 +49,5 @@ Die Repositories sind modular aufgebaut und können einzeln verwendet oder geklo
 
 ---
 
-## 🛠 Architekturüberblick *(folgt bald)*
-
-In Kürze verfügbar unter dem Pfad: [`/docs`](./docs)
-
-
 ## 🧾 Changelog
 - v1.1.1: Initiale Version am 29.06.25 aufgeschaltet
-
-
-## 📚 Zitation
-Wenn Sie dieses Projekt wissenschaftlich verwenden, zitieren Sie bitte:
-Schegg, S. (2025). *Anschluss! – Entwicklung einer Webanwendung zur Beurteilung von Fahrplanänderungen*. Masterarbeit, ZHAW.
-
-

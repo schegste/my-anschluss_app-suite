@@ -1,5 +1,5 @@
 # 🚉 *Anschluss!* – App Suite zur Fahrplananalyse
-[Zur Webseite von OpenTransportData](https://opentransportdata.swiss/de/)
+[Zur Prototypanwendung Anschluss!](https://anschluss.babelbuild.ch)
 
 Willkommen im zentralen Repository zur Masterarbeit **„Anschluss!“** – einer prototypischen Anwendung zur Analyse von Fahrplanveränderungen im öffentlichen Verkehr.  
 Diese *App Suite* vereint alle relevanten Repositories, Tools und Dokumente für Datenaufbereitung, Analyse und Visualisierung von GTFS-basierten Fahrplandaten.

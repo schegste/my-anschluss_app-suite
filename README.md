@@ -12,7 +12,7 @@ Die Anwendung basiert auf dem **GTFS-Datenstandard** und nutzt einen mehrstufige
 Das Backend wurde mit **Spring Boot** entwickelt, das Frontend nutzt **Thymeleaf** und **Bootstrap**. Über die **Google Maps API** werden Haltestellen auf GoogleMaps interaktiv dargestellt. 
 Zentrale Funktion ist der **Fahrplanvergleich**, bei dem zwei GTFS-Fahrplanversionen auf Änderungen bei Zugankünften analysiert werden können. Dadurch lassen sich potenzielle Anschlussbrüche erkennen.
 
-Die App wurde vollständig entwickelt, getestet und ansatzweise evaluiert. Nutzerfeddbacks sind noch ausstehend.  Die Anwendung leistet die Arbeit einen praxisnahen Beitrag zur Digitalisierung und zur verbesserten Koordination im öffentlichen Verkehr 
+🚀 Die App wurde vollständig entwickelt, getestet und ansatzweise evaluiert. Nutzerfeddbacks sind noch ausstehend.  Die Anwendung leistet die Arbeit einen praxisnahen Beitrag zur Digitalisierung und zur verbesserten Koordination im öffentlichen Verkehr 
 
 > ⚠️ Hinweis: Der Prototyp befindet sich noch in der Weiterentwicklung – Feedback willkommen!
 
@@ -31,15 +31,17 @@ Die App wurde vollständig entwickelt, getestet und ansatzweise evaluiert. Nutze
 
 ---
 
-### 🛠 Architektur und Systemübersicht
-
+### 🛠 Architekturkonzept
 ![Architekturkonzept](docs/Architekturkonzept.svg)
+
+### 🔧 Deployment-Kontext
 ![Deployment-Kontext](docs/DeploymentKontext.svg)
 
 ## 📥 Nutzungshinweise
 
 Die Repositories sind modular aufgebaut und können einzeln verwendet oder geklont werden.  
 🔒 *Einige Repositories sind privat. Zugriffsanfragen bitte an* **Stefan Schegg** *richten.*
+📬 Kontakt: stefan[at]schegg.ch
 
 ---
 

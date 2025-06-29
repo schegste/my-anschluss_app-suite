@@ -3,7 +3,6 @@
 
 Willkommen im zentralen Repository zur Masterarbeit **„Anschluss!“** – einer prototypischen Anwendung zur Analyse von Veränderungen zwischen verschiedenen Fahrplanversionen im öffentlichen Verkehr.  
 Diese *App Suite* vereint alle relevanten Repositories, Tools und Dokumente für Datenaufbereitung, Analyse und Visualisierung von GTFS-basierten Fahrplandaten.
-
 ---
 
 ## 🔧 Technical Summary – Projekt *Anschluss!*
@@ -34,7 +33,8 @@ Die App wurde vollständig entwickelt, getestet und ansatzweise evaluiert. Nutze
 
 ### 🛠 Architektur und Systemübersicht
 
-![Systemübersicht](docs/diagramme/systemuebersicht.svg)
+![Architekturkonzept](docs/diagramme/Architekturkonzept.svg)
+![Deployment-Kontext](docs/diagramme/DeploymentKontext.svg)
 
 ## 📥 Nutzungshinweise
 

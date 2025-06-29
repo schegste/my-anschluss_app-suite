@@ -1,8 +1,7 @@
 # 🚉 *Anschluss!* – App Suite zur Fahrplananalyse
 [Zur Prototypanwendung Anschluss!](https://anschluss.babelbuild.ch)
 
-Willkommen im zentralen Repository zur Masterarbeit **„Anschluss!“** – einer prototypischen Anwendung zur Analyse von Veränderungen zwischen verschiedenen Fahrplanversionen im öffentlichen Verkehr.  
-Diese *App Suite* vereint alle relevanten Repositories, Tools und Dokumente für Datenaufbereitung, Analyse und Visualisierung von GTFS-basierten Fahrplandaten.
+Willkommen im zentralen Repository zur Masterarbeit **„Anschluss!“** – Diese *App Suite* vereint alle relevanten Repositories, Tools und Dokumente für Datenaufbereitung, Analyse und Visualisierung von GTFS-basierten Fahrplandaten.
 ---
 
 ## 🔧 Technical Summary – Projekt *Anschluss!*
@@ -32,15 +31,20 @@ Zentrale Funktion ist der **Fahrplanvergleich**, bei dem zwei GTFS-Fahrplanversi
 ---
 
 ### 🛠 Architekturkonzept
+
 ![Architekturkonzept](docs/Architekturkonzept.svg)
 
+---
+
 ### 🔧 Deployment-Kontext
+
 ![Deployment-Kontext](docs/DeploymentKontext.svg)
 
 ## 📥 Nutzungshinweise
 
 Die Repositories sind modular aufgebaut und können einzeln verwendet oder geklont werden.  
 🔒 *Einige Repositories sind privat. Zugriffsanfragen bitte an* **Stefan Schegg** *richten.*
+
 📬 Kontakt: stefan[at]schegg.ch
 
 ---

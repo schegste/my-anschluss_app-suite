@@ -41,9 +41,15 @@ Zentrale Funktion ist der **Fahrplanvergleich**, bei dem zwei GTFS-Fahrplanversi
 ## 📥 Nutzungshinweise
 
 Die Repositories sind modular aufgebaut und können einzeln verwendet oder geklont werden.  
-🔒 *Einige Repositories sind privat. Zugriffsanfragen bitte an* **Stefan Schegg** *richten.*
+🔒 *Die Repositories sind privat. Zugriffsanfragen bitte an* **Stefan Schegg** *richten.*
 
 📬 Kontakt: stefan[at]schegg.ch
+
+---
+
+📜 Lizenz
+
+Dieses Projekt ist für wissenschaftliche Zwecke lizenziert. Für kommerzielle Nutzung bitte Kontakt aufnehmen.
 
 ---
 

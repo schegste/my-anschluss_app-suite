@@ -47,8 +47,7 @@ Die Repositories sind modular aufgebaut und können einzeln verwendet oder geklo
 
 ---
 
-📜 Lizenz
-
+## 📜 Lizenz
 Dieses Projekt ist für wissenschaftliche Zwecke lizenziert. Für kommerzielle Nutzung bitte Kontakt aufnehmen.
 
 ---
